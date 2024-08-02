@@ -135,3 +135,58 @@
     border: 3px solid white;
     border-radius: 24px;
 }
+
+.how-it-works {
+    background-color: #1A3636;
+    margin: 0;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.how-it-works > h3 {
+    text-align: center;
+    font-size: 36px;
+    color: white;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.how-it-works__first-text {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.how-it-works__register {
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    margin-left: 150px;
+}
+
+.how-it-works__plan {
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.how-it-works__movify {
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    margin-right: 100px;
+}
+
+.p-trio {
+    color: white;
+}
+
+.p-trio h3 {
+    font-size: 36px;
+}
+
+.p-trio p {
+    font-size: 20px;
+}
