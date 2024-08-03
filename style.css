@@ -356,20 +356,35 @@
     width: 300px;
     text-align: center;
     padding: 10px;
-    margin-left: 450px;
+    margin-left: 430px;
     margin-right: 20px;
     padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.viewplans__free__badge {
+    padding-top: 50px;
 }
 
 .viewplans__recom {
     display: block;
-    background-color: #D6BD98;
+    background-color: #ffd493;
     width: 300px;
     text-align: center;
     padding: 10px;
     margin-left: 20px;
     margin-right: 20px;
     padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.viewplans__recom__badge {
+    background-color: #973131;
+    color: white;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px solid white;
 }
 
 .viewplans__prem {
@@ -381,6 +396,11 @@
     margin-left: 20px;
     margin-right: 400px;
     padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.viewplans__prem__badge {
+    padding-top: 50px;
 }
 
 .viewplans__free:hover {
@@ -388,7 +408,7 @@
 }
 
 .viewplans__recom:hover {
-    background-color: #a89578;
+    background-color: rgb(212, 188, 151);
 }
 
 .viewplans__prem:hover {
